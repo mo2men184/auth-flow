@@ -36,10 +36,17 @@ Commit your changes (git commit -am 'Add new feature').
 Push to the branch (git push origin feature-branch).
 Create a new Pull Request.
 
-## About the Author ℹ️
+## About the Developer 🌟
 
-- **Hi, I'm Mo'men M.** 
-a passionate Flutter developer dedicated to creating robust and user-friendly mobile applications. This project exemplifies my commitment to leveraging Firebase's powerful authentication capabilities within the Flutter framework.
+**👨‍💻Mo'men M.** is passionate about creating efficient and user-friendly mobile applications. With expertise in Flutter and Firebase, Mo'men focuses on delivering robust solutions that enhance user experiences and meet business objectives.
+
+- 🌐 Website: [mmdev.studio](https://mmdev.studio/)
+- 💼 LinkedIn: [mm-devstudio](https://www.linkedin.com/in/mm-devstudio/)
+- 📸 Instagram: [devstudio_mm](https://www.instagram.com/devstudio_mm/)
+- 📝 Upwork: [Mo'men M. on Upwork](https://upwork.com/freelancers/mo2men184)
+- 💻 Freelancer: [devmo2 on Freelancer](https://www.freelancer.com/u/devmo2)
+- 📧 Email: [dev.moamen.sr@gmail.com](mailto:dev.moamen.sr@gmail.com)
+
 
 ## License 📝
 
